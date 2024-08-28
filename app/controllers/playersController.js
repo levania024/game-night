@@ -28,6 +28,5 @@ export class PlayersController {
         const playerElm = document.getElementById('player-card')
         playerElm.innerHTML = playerHTML
     }
-
 }
 

@@ -13,7 +13,6 @@ class App {
       this.router.init(this)
     }
   }
-
 }
 
 const app = new App()
